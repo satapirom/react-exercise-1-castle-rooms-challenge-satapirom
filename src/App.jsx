@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./App.css";
 import Castle from "./components/01_Castle";
 
 // This is a Kingdom Component
